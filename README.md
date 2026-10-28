@@ -1,3 +1,5 @@
+> [Agent handoff](HANDOFF.md) — current direction, branch, decisions, verification and next work.
+
 # Practical Statistics for Data Scientists — Deep Learning Class
 
 Reproduksi pembelajaran **Bab 1–4** dari Peter Bruce, Andrew Bruce, dan Peter Gedeck, *Practical Statistics for Data Scientists* (edisi 2, O’Reilly, 2020). Notebook menulis ulang contoh konsep dengan kode dan penjelasan orisinal; ini **bukan** salinan lengkap kode buku. Nama repo berakhiran `deep-learning` untuk mengikuti konteks mata kuliah, tetapi empat bab ini membahas fondasi statistik dan regresi, **bukan** semuanya model deep learning. Buku ini sendiri tidak membahas neural networks.
